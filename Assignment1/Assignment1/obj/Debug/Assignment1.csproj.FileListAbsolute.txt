@@ -1,0 +1,10 @@
+C:\DBMS\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\DBMS\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\DBMS\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\DBMS\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\DBMS\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\DBMS\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\DBMS\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\DBMS\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\DBMS\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\DBMS\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
