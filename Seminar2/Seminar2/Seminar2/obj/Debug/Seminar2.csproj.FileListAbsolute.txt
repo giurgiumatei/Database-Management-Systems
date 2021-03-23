@@ -1,0 +1,10 @@
+C:\DBMS\Seminar2\Seminar2\Seminar2\bin\Debug\Seminar2.exe.config
+C:\DBMS\Seminar2\Seminar2\Seminar2\bin\Debug\Seminar2.exe
+C:\DBMS\Seminar2\Seminar2\Seminar2\bin\Debug\Seminar2.pdb
+C:\DBMS\Seminar2\Seminar2\Seminar2\obj\Debug\Seminar2.csprojAssemblyReference.cache
+C:\DBMS\Seminar2\Seminar2\Seminar2\obj\Debug\Seminar2.Form1.resources
+C:\DBMS\Seminar2\Seminar2\Seminar2\obj\Debug\Seminar2.Properties.Resources.resources
+C:\DBMS\Seminar2\Seminar2\Seminar2\obj\Debug\Seminar2.csproj.GenerateResource.cache
+C:\DBMS\Seminar2\Seminar2\Seminar2\obj\Debug\Seminar2.csproj.CoreCompileInputs.cache
+C:\DBMS\Seminar2\Seminar2\Seminar2\obj\Debug\Seminar2.exe
+C:\DBMS\Seminar2\Seminar2\Seminar2\obj\Debug\Seminar2.pdb
