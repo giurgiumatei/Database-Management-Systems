@@ -9,10 +9,12 @@ SELECT* FROM Ninja_Weapons
 
 --this transaction will block the other one until is committed
 --under pesimistic isolation level
+WAITFOR DELAY '00:00:10'
 BEGIN TRANSACTION
 UPDATE Ninja_Weapons
 SET name = 'Carbon Little Spear'
 WHERE id = 5
+WAITFOR DELAY '00:00:10'
 COMMIT TRANSACTION
 --under optimistic isolation level at the start of
 --this transaction a copy of the data will be created in the tempdb
